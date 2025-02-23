@@ -9,21 +9,22 @@
 
 ### 👨‍💻 About Me  
 💡 Passionate about crafting **scalable** and **efficient** web applications.  
-⚡ Experienced in **React.js, Node.js, Express.js, MongoDB, PostgreSQL, PHP**.  
+⚡ Experienced in **React.js, Node.js, Express.js, MongoDB, PostgreSQL, PHP, OAuth**.  
 📈 Sharpening my **DSA** skills to crack top tech placements.  
-🌱 Currently diving into **Next.js & Laravel** for better backend solutions.  
+🌱 Exploring **OAuth** for secure authentication & API integrations.  
 🛠️ **Building:** IoT-driven air quality monitoring system with **ML integration**.  
 
 ---
 
 ### 🛠️ Tech Stack  
 🚀 **Frontend:** React.js, Next.js  
-⚡ **Backend:** Node.js, Express.js, Laravel  
+⚡ **Backend:** Node.js, Express.js  
 📊 **Database:** MongoDB, PostgreSQL  
+🔐 **Auth & Security:** OAuth, JWT  
 ☁ **Other:** Docker, Redis, AWS  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank5515&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank5515&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -40,8 +41,7 @@
 ---
 
 ### 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](your-twitter-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayank-chaturvedi-680944241/)    
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link)  
 
 🔥 Always open to collaborations and exciting projects!  
