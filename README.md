@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey there, I'm Mayank Chaturvedi 👋</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN & PERN Stack | DSA Enthusiast | Building Scalable Solutions</h3>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ### 🛠️ Tech Stack  
 🚀 **Frontend:** React.js, Next.js  
-⚡ **Backend:** Node.js, Express.js  
+⚡ **Backend:** Node.js, Express.js,PHP  
 📊 **Database:** MongoDB, PostgreSQL  
-🔐 **Auth & Security:** OAuth, JWT  
+🔐 **Auth & Security:** OAuth, JWT , Session
 ☁ **Other:** Docker, Redis, AWS  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank5515&show_icons=true&theme=tokyonight)  
@@ -30,13 +30,7 @@
 
 ### 📈 Competitive Programming  
 🏆 Practicing **DSA** on **LeetCode & Codeforces**  
-🎯 Goal: **1200+ rating** on Codeforces  
-
 ---
-
-### 🚀 Featured Projects  
-- 🛰 **[IoT Air Quality Monitoring System](#)** → (Live Link / Repo)  
-- ⚡ **[Another Cool Project](#)** → (Live Link / Repo)  
 
 ---
 
