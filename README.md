@@ -10,9 +10,8 @@
 ### 👨‍💻 About Me  
 💡 Passionate about crafting **scalable** and **efficient** web applications.  
 ⚡ Experienced in **React.js, Node.js, Express.js, MongoDB, PostgreSQL, PHP, OAuth**.  
-📈 Sharpening my **DSA** skills to crack top tech placements.  
-🌱 Exploring **OAuth** for secure authentication & API integrations.  
-🛠️ **Building:** IoT-driven air quality monitoring system with **ML integration**.  
+📈 Learning new Algos and Patterns   
+🌱 Exploring **OAuth** for secure authentication & API integrations.    
 
 ---
 
