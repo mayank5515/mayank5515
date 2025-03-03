@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Mayank Chaturvedi 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN & PERN Stack | DSA Enthusiast | Building Scalable Solutions</h3>
+<h3 align="center">🚀 Full-Stack Web Developer  | DSA Enthusiast | Building Scalable Solutions </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Code.+Build.+Innovate.+Create_Impact" />
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me  
 💡 Passionate about crafting **scalable** and **efficient** web applications.  
-⚡ Experienced in **React.js, Node.js, Express.js, MongoDB, PostgreSQL, PHP, OAuth**.  
+⚡ Experienced in **React.js, Next.js , Node.js, Express.js, MongoDB, PostgreSQL, PHP, OAuth**.  
 📈 Learning new Algos and Patterns   
 🌱 Exploring **OAuth** for secure authentication & API integrations.    
 
@@ -19,7 +19,7 @@
 🚀 **Frontend:** React.js, Next.js  
 ⚡ **Backend:** Node.js, Express.js,PHP  
 📊 **Database:** MongoDB, PostgreSQL  
-🔐 **Auth & Security:** OAuth, JWT , Session
+🔐 **Auth & Security:** OAuth, JWT 
 ☁ **Other:** Docker, Redis, AWS  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank5515&show_icons=true&theme=tokyonight)  
